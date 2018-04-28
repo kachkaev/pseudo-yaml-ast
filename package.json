@@ -1,8 +1,8 @@
 {
-  "name": "pseudo-yaml-ast",
-  "version": "1.0.10",
+  "name": "@kachkaev/pseudo-yaml-ast",
+  "version": "0.1.0",
   "license": "MPL-2.0",
-  "description": "Parse a YAML string into an object with location properties",
+  "description": "Fork of pseudo-yaml-ast. Parse a YAML string into an object with location properties",
   "keywords": [
     "parse",
     "yaml",
