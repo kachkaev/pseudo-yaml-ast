@@ -1,6 +1,6 @@
 {
   "name": "@kachkaev/pseudo-yaml-ast",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MPL-2.0",
   "description": "Fork of pseudo-yaml-ast. Parse a YAML string into an object with location properties",
   "keywords": [
@@ -16,9 +16,9 @@
     "location"
   ],
   "repository": "github:yldio/pseudo-yaml-ast",
-  "main": "dist/pseudo-yaml-ast.umd.js",
-  "jsnext:main": "dist/pseudo-yaml-ast.es.js",
-  "module": "dist/pseudo-yaml-ast.es.js",
+  "main": "dist/kachkaev-pseudo-yaml-ast.umd.js",
+  "jsnext:main": "dist/kachkaev-pseudo-yaml-ast.es.js",
+  "module": "dist/kachkaev-pseudo-yaml-ast.es.js",
   "entry": "src/index.js",
   "files": ["dist"],
   "bundlesize": [
